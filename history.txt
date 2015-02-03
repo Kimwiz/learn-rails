@@ -1,0 +1,22 @@
+    1  ls
+    2  cd ..
+    3  cd ..
+    4  cd Sites
+    5  ls
+    6  cd ..
+    7  cd Users/Sherlock/RubymineProjects/learning_curve
+    8  rails server
+    9  rails server
+   10  rails server
+   11  which git
+   12  git config
+   13  git config --get user.name
+   14  git config --get user.email
+   15  git init.
+   16  git init .
+   17  ls
+   18  cat .gitignore
+   19  git status
+   20  git add -A
+   21  git status
+   22  history>>history.txt
